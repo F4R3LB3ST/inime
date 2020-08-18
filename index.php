@@ -4,13 +4,14 @@
 	body {
 		background-image: linear-gradient(#2BD449, #56DC6D);
 		margin:0;
-		height:1920px;
-		width:1080px;
+		height:1080px;
+		width:100%;
 	  }
 	  .topbar {
 		width: auto;
 		height:7,68%;
 		background-color:#1d8f32;
+		float:left;
 	  }
 	</style>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -21,6 +22,7 @@
 	  <div class="topbar">
 		 <h1>Hi</h1> 
 	  </div>
+	  <br>
     <?php
     echo "hi";
     ?>
