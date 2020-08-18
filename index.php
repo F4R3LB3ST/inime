@@ -19,8 +19,8 @@
     <title>Test Website</title>
   </head>
   <body>
-	  <div>
-		  
+	  <div class="topbar">
+		 <h1>Hi</h1> 
 	  </div>
     <?php
     echo "hi";
