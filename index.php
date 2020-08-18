@@ -11,7 +11,7 @@
 		float: left;
 		width: 100%;
 		height:7.68%;
-		background-image:1d8f32
+		background-color:1d8f32;
 	  }
 	</style>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
