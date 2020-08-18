@@ -8,7 +8,6 @@
 		width:1080px;
 	  }
 	  .topbar {
-		float: left;
 		width: auto;
 		height:7,68%;
 		background-color:#1d8f32;
