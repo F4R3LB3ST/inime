@@ -5,7 +5,7 @@
 		background-image: linear-gradient(#2BD449, #56DC6D);
 		margin:0;
 		height:1080px;
-		width:100%;
+		width:1920px;
 	  }
 	  .topbar {
 		width: auto;
