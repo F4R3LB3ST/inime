@@ -4,8 +4,14 @@
 	body {
 		background-image: linear-gradient(#2BD449, #56DC6D);
 		margin:0;
-		height:1366px;
-		width:768px;
+		height:1920px;
+		width:1080px;
+	  }
+	  .topbar {
+		float: left;
+		width: 100%;
+		height:7.68%;
+		background-image:1d8f32
 	  }
 	</style>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,6 +19,9 @@
     <title>Test Website</title>
   </head>
   <body>
+	  <div>
+		  
+	  </div>
     <?php
     echo "hi";
     ?>
