@@ -22,9 +22,5 @@
 	  <div class="topbar">
 		 <h1>Hi</h1> 
 	  </div>
-	  <br>
-    <?php
-    echo "hi";
-    ?>
   </body>
 </html>
